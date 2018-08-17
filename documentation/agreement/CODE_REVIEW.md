@@ -7,6 +7,10 @@ Code Review
   - +1 means you've looked over the code
 - Check CONTRIBUTING.MD for additional requirements
 - Address/Respond to all comments
-- Ensure [test coverage](./testing.md)
-- Include testing steps taken along with a +10/QA+1 in github comment and on JIRA ticket comment
 - Try to complete your review within a day
+
+- Testing:
+  - QA +1 / +10 can be performed by anyone, and should include comprehensive notes of testing steps taken. These notes should also be pasted to the associated Jira ticket for thoroughness of paper trail.
+  - Appropriate tests should be included as part of a code change. Any exceptions to this need to be justified and documented on the PR.
+  
+
