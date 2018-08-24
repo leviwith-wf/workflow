@@ -11,6 +11,6 @@ Code Review
 
 - Testing:
   - QA +1 / +10 can be performed by anyone, and should include comprehensive notes of testing steps taken. These notes should also be pasted to the associated Jira ticket for thoroughness of paper trail.
-  - Appropriate tests should be included as part of a code change. Any exceptions to this need to be justified and documented on the PR.
+  - [Appropriate tests](https://w-dev-blog.appspot.com/posts/2015/12/07/what-kind-of-test-is-that/index.html) should be included as part of a code change. Any exceptions to this need to be justified and documented on the PR.
   
 
